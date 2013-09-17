@@ -1,12 +1,11 @@
-=== Kint Debugger ===
-Contributors: misternifty, chriswallace
-Author: Brian Fegter
-Author URI: http://upthemes.com/
-Plugin URI: http://upthemes.com/plugins/kint-debugger
+=== WPKint ===
+Author: Curran
+Author URI: http://apblue.com/
+Plugin URI: http://apblue.com/wpkint/
 Tags: debug, debugger, print_r, var_dump, backtrace, debug_backtrace, krumo, php, tool, trace, developer, debug-bar
 Requires at least: 2.5
 Tested up to: 3.5
-Stable tag: 0.3
+Stable tag: 1.0.0
 
 Kint Debugger makes debugging and dumping variables a more pleasant experience. Kint Debugger integrates seamlessly with the Debug Bar plugin.
 
@@ -58,6 +57,8 @@ If you have a question about Kint specifically, please visit the [Kint site](htt
 
 == Changelog ==
 
+= 1.0.0 =
+* Updated Kint class
 = 0.2 =
 * Added Debug Bar support
 = 0.1 =
